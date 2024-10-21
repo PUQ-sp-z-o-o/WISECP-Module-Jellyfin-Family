@@ -1,0 +1,26 @@
+# Management Media account
+
+### Jellyfin Family module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-jellyfin-family) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Jellyfin-Family/) | [FAQ](https://faq.puqcloud.com/)
+
+[![image-1728563835054.png](https://doc.puq.info/uploads/images/gallery/2024-10/scaled-1680-/image-1728563835054.png)](https://doc.puq.info/uploads/images/gallery/2024-10/image-1728563835054.png)
+
+**Enabled** - Update account status.
+
+**Username** - Set a media account username. It consists of the username of the main account and a unique name for this media account.
+
+**Password** - Write a password for registering the media account.
+
+**Disable libraries** - Here are all the libraries available to the main account. If you want to restrict access for this media account to any of the libraries, simply select that library.
+
+<p class="callout info">Press **Ctrl** to select multiple libraries.  
+Press **Shift+Ctrl** from top to bottom of list to select all libraries.</p>
+
+#### Media account active devices
+
+Here is a list of active devices for this account.
+
+<p class="callout info">Press "Drop Account Devices" to sign out from the devices.</p>
+
+[![image-1728563851520.png](https://doc.puq.info/uploads/images/gallery/2024-10/scaled-1680-/image-1728563851520.png)](https://doc.puq.info/uploads/images/gallery/2024-10/image-1728563851520.png)

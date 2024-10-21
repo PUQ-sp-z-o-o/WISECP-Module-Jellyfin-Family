@@ -1,0 +1,23 @@
+# License Activation
+
+### Jellyfin Family module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-jellyfin-family) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Jellyfin-Family/) | [FAQ](https://faq.puqcloud.com/)
+
+##### 1. Log in to the administrative area of your **[WISECP](https://puqcloud.com/link.php?id=78)**.
+
+##### 2. Go to module configuration.
+
+```
+Services -> Service Management -> Module Settings -> Other -> All Modules -> PUQ Jellyfin Family
+```
+
+[![image-1700485721333.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485721333.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485721333.png)
+
+[![image-1700485726951.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485726951.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485726951.png)
+
+[![image-1700485737918.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485737918.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485737918.png)
+
+[![image-1728474678242.png](https://doc.puq.info/uploads/images/gallery/2024-10/scaled-1680-/image-1728474678242.png)](https://doc.puq.info/uploads/images/gallery/2024-10/image-1728474678242.png)
+
+[![image-1728475173991.png](https://doc.puq.info/uploads/images/gallery/2024-10/scaled-1680-/image-1728475173991.png)](https://doc.puq.info/uploads/images/gallery/2024-10/image-1728475173991.png)
